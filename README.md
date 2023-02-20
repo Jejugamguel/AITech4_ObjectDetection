@@ -65,7 +65,7 @@
 &nbsp;
 
 # 모델 및 Data Augmentation
-- Cascade SwinT
+- Cascade SwinB
     - Resize
     - Albu
         - HorizontalFlip
